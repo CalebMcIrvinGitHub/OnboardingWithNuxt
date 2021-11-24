@@ -1,0 +1,16 @@
+div {
+    background-color: lightgray;
+    font-size:20px;
+    margin:20px;
+    font-family:'Segoe UI';
+}
+
+label {
+    margin: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 15px;
+}
